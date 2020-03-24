@@ -1,0 +1,11 @@
+ftp:
+  - Caudalie:
+      host: ftp.domain1.com
+      username: User1
+      password: Pass1
+      port: 21
+  - IN2LOG:
+      host: ftp.domain2.com
+      username: User2
+      password: Pass2
+      port: 21
