@@ -3,6 +3,16 @@ import hydra
 from omegaconf import DictConfig
 from ftplib import FTP
 
+# Just a fancy ass banner
+print('''
+                    _     _            _   _
+     /\            | |   (_)          | | (_)
+    /  \   _ __ ___| |__  ___   ____ _| |_ ___  __
+   / /\ \ | '__/ __| '_ \| \ \ / / _` | __| \ \/ /
+  / ____ \| | | (__| | | | |\ V / (_| | |_| |>  <
+ /_/    \_\_|  \___|_| |_|_| \_/ \__,_|\__|_/_/\_\ 
+ 
+ ''')
 
 @hydra.main(config_path="config.yaml")
 class Archivatix:
