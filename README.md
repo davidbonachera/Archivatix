@@ -1,5 +1,5 @@
 # Archivatix
-> Archive and FTP files / folders that are too old
+> Archive FTP files / folders that are too old
 
 ![header](https://user-images.githubusercontent.com/1730152/82173392-a5904780-98ff-11ea-902b-d1ae711c8ec9.png)
 
