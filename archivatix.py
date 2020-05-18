@@ -152,6 +152,8 @@ class FTPUtils:
             self.ftp.cwd(dir)
             self.ftp.mkd(str(folder_name))
             self.ftp.cwd("..")
+            self.ftp.rename('{}/{}'.format(dir, file[0]), '{}/{}/{}'.format(dir, folder_name, file[0]))
+
 
         # self.ftp.rename(origin, destination)
 
