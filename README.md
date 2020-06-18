@@ -1,7 +1,7 @@
 # Archivatix
 > Archive FTP files / folders that are too old
 
-[![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/davidbonachera/Archivatix)
+[![Maintainability](https://api.codeclimate.com/v1/badges/91f9dbb808ee545ede15/maintainability)](https://codeclimate.com/github/davidbonachera/Archivatix/maintainability)
 
 ![header](https://user-images.githubusercontent.com/1730152/82173392-a5904780-98ff-11ea-902b-d1ae711c8ec9.png)
 
